@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Panda</h1>
 <h3 align="center">Building Scalable AI & Data Systems</h3>
 
-- 🔭 I’m currently working on [TacticSensei](https://github.com/MiteshPanda/TacticSensei)
+- 🔭 I’m currently working on [TacticSensei](https://github.com/MiteshPanda/TacticSensei) & [Taquilla](https://github.com/MiteshPanda/Taquilla).
 
 - 🌱 I’m currently learning: **Node.js, MongoDB & React.**
 
